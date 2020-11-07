@@ -79,6 +79,14 @@ p {
   margin-bottom: 1rem;
 }
 
+#avatar {
+  border-radius: 60%;
+}
+
+#tools {
+  font-size: larger;
+}
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;

@@ -91,6 +91,16 @@ p {
   font-size: larger;
 }
 
+#skill {
+  background-color: white !important;
+  color: #000;
+  border: 2px solid #000 !important;
+  pointer-events: none;
+}
+
+
+
+
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;

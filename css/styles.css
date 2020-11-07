@@ -83,6 +83,10 @@ p {
   border-radius: 60%;
 }
 
+#proj1 {
+  height: 240px;
+}
+
 #tools {
   font-size: larger;
 }
